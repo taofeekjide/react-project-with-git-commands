@@ -1,0 +1,1 @@
+This project involves the use of Git version control. It includes commits, feature branching, merging, pull requests, and collaboration-ready workflows which are essential when working in a team in Software development.

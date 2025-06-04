@@ -1,1 +1,1 @@
-This project demonstrates how to integrate Git version control in a project. It includes commits, feature branching, merging, pull requests, and collaboration-ready workflows which are essential for a team in Software development.
+This project involves the use of Git version control. It includes commits, feature branching, merging, pull requests, and collaboration-ready workflows which are essential when working in a team in Software development.
